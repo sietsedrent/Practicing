@@ -8,3 +8,8 @@
 *.props
 *.targets
 *.editorconfig
+*.pdb
+*.dll
+*.txt
+*.BuildWithSkipAnalyzers
+*.user

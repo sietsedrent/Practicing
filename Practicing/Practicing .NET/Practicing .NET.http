@@ -1,0 +1,6 @@
+@Practicing_.NET_HostAddress = http://localhost:5109
+
+GET {{Practicing_.NET_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

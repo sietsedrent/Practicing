@@ -7,4 +7,31 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Algorithms\Binary Search\" />
+    <Folder Include="Algorithms\Backtracking\" />
+    <Folder Include="Algorithms\Greedy\" />
+    <Folder Include="Algorithms\Dynamic Programming\" />
+    <Folder Include="Algorithms\Divide &amp; Conquer\" />
+    <Folder Include="Algorithms\Bit Manipulation\" />
+    <Folder Include="Algorithms\Math &amp; Number Theory\" />
+    <Folder Include="Algorithms\Intervals\" />
+    <Folder Include="Algorithms\Recursion\" />
+    <Folder Include="Algorithms\Two Pointers\" />
+    <Folder Include="Data Structure\Arrays\" />
+    <Folder Include="Data Structure\HashMap &amp; Dictionary\" />
+    <Folder Include="Data Structure\HashSet\" />
+    <Folder Include="Data Structure\Graphs\" />
+    <Folder Include="Data Structure\Heaps &amp; Priority Queue\" />
+    <Folder Include="Data Structure\Queue\" />
+    <Folder Include="Data Structure\Stack\" />
+    <Folder Include="Data Structure\Strings\" />
+    <Folder Include="NewFolder\" />
+    <Folder Include="Sorting Algorithms\Bubble Sort\" />
+    <Folder Include="Sorting Algorithms\Merge Sort\" />
+    <Folder Include="Sorting Algorithms\Heap Sort\" />
+    <Folder Include="Sorting Algorithms\Quick Sort\" />
+    <Folder Include="SQL\" />
+  </ItemGroup>
+
 </Project>

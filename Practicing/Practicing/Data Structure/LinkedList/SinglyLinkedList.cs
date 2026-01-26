@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Practicing.Sliding_Window
+namespace Practicing.Data_Structure.LinkedList
 {
-    internal class DynamicSlidingWindow
+    internal class SinglyLinkedList
     {
     }
 }

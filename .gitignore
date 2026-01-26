@@ -1,0 +1,10 @@
+*.db
+*.db-shm
+*.db-wal
+*.vsidx
+/Practicing/.vs
+*.cache
+*.json
+*.props
+*.targets
+*.editorconfig

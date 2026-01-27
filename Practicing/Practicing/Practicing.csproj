@@ -26,12 +26,18 @@
     <Folder Include="Data Structure\Queue\" />
     <Folder Include="Data Structure\Stack\" />
     <Folder Include="Data Structure\Strings\" />
+    <Folder Include="SQL\CASE\" />
+    <Folder Include="Tests\" />
     <Folder Include="NewFolder\" />
     <Folder Include="Sorting Algorithms\Bubble Sort\" />
     <Folder Include="Sorting Algorithms\Merge Sort\" />
     <Folder Include="Sorting Algorithms\Heap Sort\" />
     <Folder Include="Sorting Algorithms\Quick Sort\" />
-    <Folder Include="SQL\" />
+    <Folder Include="SQL\Advanced Select &amp; Joins\" />
+    <Folder Include="SQL\Advanced String Functions Regex Clause\" />
+    <Folder Include="SQL\LINQ\" />
+    <Folder Include="SQL\Subqueries\" />
+    <Folder Include="SQL\Sorting and Grouping\" />
   </ItemGroup>
 
 </Project>

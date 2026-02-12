@@ -1,5 +1,6 @@
 ﻿using Practicing.Algorithhms.Sliding_Window;
 using Practicing.Algorithms.Sliding_Window;
+using Practicing.Sorting_Algorithms.Quick_Sort;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -22,6 +23,15 @@ namespace Practicing.Algorithns.Sliding_Window
             //DynamicSlidingWindow
             string s = "dasdasvcbffadfds";
             Console.WriteLine($"Length longest substring without repeating: {DynamicSlidingWindow.LengthLongestSubstring(s)}");
+
+
+
+            int[] arr2 = { 5, 1, 5, 6, 8, 9, 11, 14, 15, 19, 2, 4, 5, 1, 5, 6, 7, 8, 4, 65, 3 };
+            QuickSort.QuickSort4(arr2, 0, arr2.Length - 1);
+            foreach( int i in arr2)
+            {
+                Console.WriteLine(i);
+            }
         }
     }
 }
